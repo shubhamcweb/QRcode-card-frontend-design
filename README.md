@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). In this challenge, you have to design a QR Code card using HTML & CSS matching the given desktop and mobile previews.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). In this challenge, you have to design a QR Code card using HTML & CSS matching the given desktop and mobile frontend previews.
 
 ## Table of contents
 
